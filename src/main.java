@@ -5,6 +5,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World 2");
 		System.out.println("another commit on master");
+		System.out.println("My first commit on branch");
 	}
 
 }
